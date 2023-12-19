@@ -2,7 +2,7 @@
 
 namespace CsharpAdvanced_4
 {
-    public interface IMath
+    public interface IMath // Interface
     {
         int Add(int a, int b);
         int Sub(int a, int b);
