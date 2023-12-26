@@ -16,7 +16,7 @@ namespace CsharpAdvanced_4
 
         static void Main(string[] args)
         {
-            Console.WriteLine(p.Add(1,1));
+            Console.WriteLine(p.Add(1, 1));
         }
 
         public int Add(int a, int b)
